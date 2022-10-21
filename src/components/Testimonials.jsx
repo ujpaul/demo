@@ -5,7 +5,7 @@ const Testimonials = () =>{
         <div className='holder'>
          <div className='flex__container' style={{justifyContent: 'center'}}>
             <p className='big__text'>Testimonials</p>
-            <img className='image' src='https://e7.pngegg.com/pngimages/595/515/png-clipart-quotation-mark-symbol-sign-computer-icons-quotation-logo-computer-wallpaper-thumbnail.png'/>
+            <img className='image' src='https://e7.pngegg.com/pngimages/595/515/png-clipart-quotation-mark-symbol-sign-computer-icons-quotation-logo-computer-wallpaper-thumbnail.png' alt='testimonial'/>
          </div>   
         <p>It is a long established fact that a reader will be distracted by the 
             readable content of a page when looking at its layout. The point 
