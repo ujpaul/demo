@@ -1,5 +1,5 @@
 import ReactPlayer from 'react-player'
-
+import React from 'react';
 const Testimonials = () =>{
     return(
         <div className='holder'>

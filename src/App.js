@@ -1,3 +1,4 @@
+import React from "react";
 import "./App.css";
 import NavbarMenu from "./components/NavbarMenu";
 import Slide from "./components/Slide";
